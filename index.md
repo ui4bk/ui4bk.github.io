@@ -46,8 +46,13 @@ Workshop Date: March 20, 2019
 ### Organizers
 
 Johanne Christensen, North Carolina State University (jtchrist@ncsu.edu)
+
 Juhee Bae, University of Skövde (juhee.bae@his.se)
+
 Benjamin Watson, North Carolina State University (bwatson@ncsu.edu)
+
 Kartik Talamadupula, IBM Research (krtalamad@us.ibm.com)
+
 Josef Spjut, NVIDIA (jspjut@nvidia.com)
+
 Stacy Joines, IBM (joines@ibm.com)
