@@ -31,7 +31,7 @@ We invite submissions of two types: short papers and applied case studies.
 
 The papers and case studies will be juried by the organizers and program committee, then chosen according to relevance, quality, and interest to attendees. At least one author of each accepted submission must register for the workshop, and present its contents.
 
-All submissions should be in the [ACM SIGCHI conference format](http://sigchi.github.io/Document-Formats/), and appropriately anonymized for double-blind review. Papers should be submitted electronically to easychair at https://easychair.org/conferences/?conf=uibk2019.
+All submissions should be in the [ACM SIGCHI conference format](http://sigchi.github.io/Document-Formats/), and appropriately anonymized for double-blind review. Papers should be submitted electronically to [easychair](https://easychair.org/conferences/?conf=uibk2019).
 
 ### Important Dates
 
