@@ -25,7 +25,7 @@ We particularly encourage contributors to address and illustrate issues like the
 
 We invite submissions of two types: short papers and applied case studies.
 
-**(Short papers (4-6 pages)**: presenting traditional research, work in progress, positions, emerging research issues, or lessons learnt that address challenges or questions affecting the design and implementation of user interactions for collecting and curating domain knowledge or training data. Papers may focus on a specific area of AI (eg. machine learning, planning, etc) or work that is applicable across different areas of AI or to AI systems where user interactions are agnostic to the underlying AI algorithms.
+**Short papers (4-6 pages)**: presenting traditional research, work in progress, positions, emerging research issues, or lessons learnt that address challenges or questions affecting the design and implementation of user interactions for collecting and curating domain knowledge or training data. Papers may focus on a specific area of AI (eg. machine learning, planning, etc) or work that is applicable across different areas of AI or to AI systems where user interactions are agnostic to the underlying AI algorithms.
 
 **Applied case studies**: may be demos, videos, or posters that discuss a particular challenge encountered during training of an AI-based system. All formats must include a 1-2 page written abstract. Actual demos, posters and videos may be submitted for consideration during review, but are not required until they are accepted for publication.
 
@@ -35,7 +35,7 @@ All submissions should be in the [ACM SIGCHI conference format](http://sigchi.gi
 
 ### Important Dates
 
-Paper Submissions Due: December 3, 2018
+Paper Submissions Due: December 14, 2018
 
 Notification to Authors: January 14, 2019
 
