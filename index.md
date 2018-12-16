@@ -35,7 +35,7 @@ All submissions should be in the [ACM SIGCHI conference format](http://sigchi.gi
 
 ### Important Dates
 
-Paper Submissions Due: December 14, 2018
+Paper Submissions Due: ~~December 14, 2018~~ December 21, 2018
 
 Notification to Authors: January 14, 2019
 
