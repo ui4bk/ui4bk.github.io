@@ -55,4 +55,4 @@ Kartik Talamadupula, IBM Research (krtalamad@us.ibm.com)
 
 Josef Spjut, NVIDIA (jspjut@nvidia.com)
 
-Stacy Joines, IBM (joines@ibm.com)
+Stacy Joines, IBM (joines@us.ibm.com)
