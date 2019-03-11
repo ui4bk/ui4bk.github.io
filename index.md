@@ -2,6 +2,20 @@
 
 Welcome to the first workshop on User Interactions for Building Knowledge (UIBK), held in conjunction with the [24th ACM International Conference on Intelligent User Interfaces](https://iui.acm.org/2019/) in Los Angeles, CA.
 
+### Schedule
+
+|||
+| ------------- | ------------- |
+09:00-09:20 | Introductions
+09:20-10:05 | Invited Talk<br />*Xiaotong Liu, IBM Research Almaden*
+10:05-10:30 | WoS – Open Source Wizard of Oz for Speech Systems<br />*Birgit Brüggemeier, Philip Lalone*
+10:30-11:00 | Break
+11:00-11:25 | An apprenticeship model for human and AI collaborative essay grading<br />*Alok Baikadi, Lee Becker, Jill Budden, Peter Foltz, Andrew Gorman, Scott Hellman, William Murray, Mark Rosenstein*
+11:25-11:50 | Detecting Changes in User Behavior to Understand Interaction Provenance during Visual Data Analysis<br />*Alyssa Pena, Eric Ragan, Theodora Chaspari*
+11:50-12:15 | Eliciting Structures in Data<br />*Ahmad Al-Shishtawy, Juhee Bae, Mohamed-Rafik Bouguelia, Göran Falkman, Sarunas Girdzijauskas, Olof Gönerup, Anders Holst, Alexander Karlsson, Slawomir Nowaczyk, Sepideh Pashami, Alan Said, Amira A. Soliman El Hosary*
+12:15-13:00 | Discussion/closing
+
+
 Fulfilling the promise of artificial intelligence (AI) - solving complex decision problems - depends on the ability to provide the underlying algorithms with domain specific information; data and knowledge that must come from human experts and in domains where needs, values, and often the validity of the information itself is continually shifting. Currently, building these models for AI systems to work from is an unintuitive task for users who have little to no knowledge of how the system and its underlying algorithms function. So in practice, this process is divided between AI-experts who understand what the system needs, and subject matter experts (SMEs) who understand the nuances of the data and domain. But this split is inefficient and often results in the stagnation of AI systems, because they cannot be updated quickly enough to keep up with the shifts in the real world situations where these systems are expected to operate. And in many complex problem spaces, designers and developers cannot completely define user needs; effective systems should have the ability for end users to tell the system what they need from it - eg. participate in training and knowledge capture.
 
 Giving control over producing and refining these data sets and knowledge models directly to SMEs or even end users allows them ownership and agency over their data, knowledge, and AI needs. This workshop seeks to bring together researchers across different AI spaces to share and discuss the challenges of building interactions for guiding novice users through knowledge collection and model building or training.
