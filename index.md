@@ -7,7 +7,7 @@ Welcome to the first workshop on User Interactions for Building Knowledge (UIBK)
 |||
 | ------------- | ------------- |
 09:00-09:20 | Introductions
-09:20-10:05 | Invited Talk<br />*Xiaotong Liu, IBM Research Almaden*
+09:20-10:05 | Invited Talk: Towards Actionable Intelligence: Enhancing the Interplay of Data, Human and Machine<br />*Xiaotong Liu, IBM Research Almaden*
 10:05-10:30 | WoS – Open Source Wizard of Oz for Speech Systems<br />*Birgit Brüggemeier, Philip Lalone*
 10:30-11:00 | Break
 11:00-11:25 | An apprenticeship model for human and AI collaborative essay grading<br />*Alok Baikadi, Lee Becker, Jill Budden, Peter Foltz, Andrew Gorman, Scott Hellman, William Murray, Mark Rosenstein*
