@@ -2,6 +2,8 @@
 
 Welcome to the first workshop on User Interactions for Building Knowledge (UIBK), held in conjunction with the [24th ACM International Conference on Intelligent User Interfaces](https://iui.acm.org/2019/) in Los Angeles, CA.
 
+Workshop Proceedings: http://ceur-ws.org/Vol-2327/#UIBK
+
 ### Schedule
 
 |||
